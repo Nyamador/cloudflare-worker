@@ -1,0 +1,6 @@
+name = "nyamador"
+type = "javascript"
+account_id = "02eb82b7d01a742d24bdc5222c8835c2"
+workers_dev = true
+route = ""
+zone_id = ""
